@@ -37,5 +37,4 @@ Separation of frontend and backend for scalable development.
 
 
 
-## 📁 Repository Structure
 
